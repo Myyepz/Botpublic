@@ -1,0 +1,6 @@
+
+[Rabu, 22 - 08 - 2018 | 00:57:44] Expecting value: line 1 column 1 (char 0)
+[Rabu, 22 - 08 - 2018 | 03:43:05] Expecting value: line 1 column 1 (char 0)
+[Rabu, 22 - 08 - 2018 | 18:49:19] Invalid mids
+[Rabu, 22 - 08 - 2018 | 20:43:59] Invalid mids
+[Jumat, 24 - 08 - 2018 | 05:51:08] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
