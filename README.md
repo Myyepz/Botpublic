@@ -4,7 +4,7 @@
 
 ----
 
-# JANGAN LUPA ADD [Yepz Bot](http://line.me/ti/p/~myyepz)
+# JANGAN LUPA ADD [@Yepz](http://line.me/ti/p/~myyepz)
 
 # Termux
 
