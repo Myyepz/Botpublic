@@ -4,8 +4,7 @@
 
 ----
 
-# JANGAN LUPA ADD [ADITMADZS BOT](http://line.me/ti/p/~aditmadzsbot)
-# SC Sementara Sewaktu Waktu Akan Di Update
+# JANGAN LUPA ADD [Yepz Bot](http://line.me/ti/p/~myyepz)
 
 # Termux
 
@@ -15,19 +14,19 @@ $ apt upgrade
 $ apt install python
 $ pkg install python3
 $ apt install git
-$ git clone https://github.com/Aditmadzs/Selfbotpy3
-$ cd Selfbotpy3
+$ git clone https://github.com/Myyepz/Botpublic
+$ cd Botpublic
 $ python -m pip install -r requirements.txt
-$ python3 Aditmadzs.py
+$ python3 Botpublic.py
 ```
 
 ## VPS
 
 ```sh
-$ git clone https://github.com/Aditmadzs/Selfbotpy3
-$ cd Selfbotpy3
+$ git clone https://github.com/Myyepz/Botpublic
+$ cd Botpublic
 $ python3 -m pip install -r requirements.txt
-$ python Aditmadzs.py
+$ python Botpublic.py
 ```
 
 ## Thanks To:
